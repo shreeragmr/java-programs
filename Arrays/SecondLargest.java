@@ -17,7 +17,7 @@ class SecondLargest {
             }
         }
 
-        if (second == Integer.MIN_VALUE) {
+        if (second == Integer.MIN_VALUE) {  
             System.out.println("No second largest element");
         } else {
             System.out.println("Second Largest: " + second);
